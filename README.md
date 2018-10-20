@@ -22,10 +22,11 @@ An ongoing exploration on how to implement all the algorithms in React. Created 
 - [ ] Stack
 - [ ] Queue
 - [ ] Tree
-- [x] Binary Search Tree
 - [ ] Trie
 - [ ] Graph
 
+## Search 
+- [x] Binary Search Tree
 
 ## License
 
