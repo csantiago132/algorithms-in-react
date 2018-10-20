@@ -1,0 +1,20 @@
+{
+  "name": "new-algorithms-in-react",
+  "version": "1.0.0",
+  "description": "Based on a Immutable.JS state, do a bubble sort algorithm, followed by a recursive binary search on the data. Algorithms are promised-based. ",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "immutable": "3.8.2",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
